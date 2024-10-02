@@ -15,8 +15,8 @@ This is a simple tool for encrypting and decrypting data using the AES (Advanced
 Ensure that you have Python 3.6+ installed. You also need the following Python packages:
 
 - `cryptography`
-- `tkinter` (comes with Python standard library)
+- `tkinter` 
 
-For intalling write in terminal:
-pip install cryptografhy 
-pip install tk
+For intalling write in terminal:  
+pip install cryptografhy   
+pip install tk  
